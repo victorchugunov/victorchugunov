@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\chugunov\files\pkbt_lections\victorchugunov\AD_GIT_TEST\AD_GIT_TEST\AD_GIT_TEST.PcbDoc
+DRC Rules Export File for PCB: C:\chugunov\files\pkbt_lections\victorchugunov\AD_GIT_TEST\AD_GIT_TEST.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
