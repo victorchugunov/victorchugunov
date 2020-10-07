@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:21:31 On 07.10.2020
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [AD_GIT_TEST.PcbDoc]
+   Generated File[Pick Place_PCBA_number_File_Title_vPCBA_version.txt]
+   Generated File[Pick Place_PCBA_number_File_Title_vPCBA_version.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:21:31 On 07.10.2020
