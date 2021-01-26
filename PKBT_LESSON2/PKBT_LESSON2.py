@@ -19,7 +19,7 @@ def factoring(Y): #функция определения списка множи
         else:
            divider += 1
     if Y>1:
-        factor.append(n)
+        factor.append(Y)
     return factor
 
 end = int(input ("end = ")) #ввод верхней границы "графика"
