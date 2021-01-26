@@ -11,13 +11,13 @@ def asymptote(X): #функция вычисления количества пр
     
 def factoring(Y): #функция определения списка множителей аргумента
     factor = []
-    devider = 2
-    while Y >= math.sqrt(devider):
-        if Y % devider == 0:
-            factor.append(devider)
-            Y = Y/devider
+    divider = 2
+    while Y >= math.sqrt(divider):
+        if Y % divider == 0:
+            factor.append(divider)
+            Y = Y/divider
         else:
-           devider += 1
+           divider += 1
     if Y>1:
         factor.append(n)
     return factor
